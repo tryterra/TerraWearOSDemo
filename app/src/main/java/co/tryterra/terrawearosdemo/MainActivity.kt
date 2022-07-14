@@ -9,7 +9,6 @@ import co.tryterra.terrawearos.enums.StreamDataTypes
 import co.tryterra.terrawearos.Terra
 import co.tryterra.terrawearos.enums.DataTypes
 import co.tryterra.terrawearos.enums.ExerciseTypes
-import co.tryterra.terrawearosdemo.R
 import co.tryterra.terrawearosdemo.databinding.ActivityMainBinding
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.collect

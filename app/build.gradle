@@ -33,6 +33,6 @@ dependencies {
     implementation 'androidx.percentlayout:percentlayout:1.0.0'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     implementation 'androidx.recyclerview:recyclerview:1.2.1'
-    implementation 'co.tryterra:terra-wearos:0.0.1'
+    implementation 'co.tryterra:terra-wearos:0.0.2'
 
 }
